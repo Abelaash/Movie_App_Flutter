@@ -6,3 +6,4 @@ A new Flutter project.
 <img src="Screenshot_20200828-163411.jpg" alt="MainPage" height="450px" width="260px">
 
 # Second Navigation Page
+<img src="" alt="MainPage" height="450px" width="260px">
